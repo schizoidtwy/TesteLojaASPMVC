@@ -9,6 +9,7 @@ namespace Cruzeiro.LojaVirtual.Test
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
